@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ramanathan-R95/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ramanathan-R95/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Ramanathan-R95/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Ramanathan-R95/Leetcode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0226-invert-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Ramanathan-R95/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
