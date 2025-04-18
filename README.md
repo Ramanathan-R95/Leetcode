@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramanathan-R95/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-binary-search](https://github.com/Ramanathan-R95/Leetcode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ramanathan-R95/Leetcode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Ramanathan-R95/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
