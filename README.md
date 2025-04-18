@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ramanathan-R95/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Ramanathan-R95/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -50,9 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Ramanathan-R95/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Ramanathan-R95/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Ramanathan-R95/Leetcode/tree/master/0792-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ramanathan-R95/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
