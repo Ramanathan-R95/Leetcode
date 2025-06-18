@@ -8,7 +8,9 @@ class Solution(object):
         sum=0
         for i in range(len(nums)):
             sum+=nums[i]
-            maxSum=max(sum,maxSum)
+            if maxSum < sum:
+                maxSum=sum
+            
             if sum<0:
                 sum=0
         return maxSum
