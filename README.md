@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ramanathan-R95/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Ramanathan-R95/Leetcode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
