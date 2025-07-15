@@ -4,11 +4,12 @@ class Solution {
         Set<Integer> s=new HashSet<>();
         s.add(nums[0]);
         for(int i=1; i < nums.length ; i++){
-            if (s.contains(nums[i]))
-                continue;
+            if (!(s.contains(nums[i]))){
+                
             nums[j]=nums[i];
             s.add(nums[j]);
             j++;           
+            }
            
         }
         return s.size();
