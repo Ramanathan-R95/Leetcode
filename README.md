@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ramanathan-R95/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Ramanathan-R95/Leetcode/tree/master/0792-binary-search) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramanathan-R95/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ramanathan-R95/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ramanathan-R95/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Ramanathan-R95/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ramanathan-R95/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ramanathan-R95/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ramanathan-R95/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ramanathan-R95/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramanathan-R95/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Ramanathan-R95/Leetcode/tree/master/0792-binary-search) |
 ## Linked List
 |  |
