@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Ramanathan-R95/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Ramanathan-R95/Leetcode/tree/master/0792-binary-search) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Ramanathan-R95/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Dynamic Programming
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Ramanathan-R95/Leetcode/tree/master/0724-find-pivot-index) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Ramanathan-R95/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
