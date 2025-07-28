@@ -1,16 +1,17 @@
-class Solution(object):
-    def minimumSumSubarray(self, nums, l, r):
-       
-        minSum=float("inf")
-       
-        s=0
-        for i in range(len(nums)):
+class Solution:
+    def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
+        minSum = float("inf")
+        for i in range(l,r+1):
+            curSum = sum(nums[:i])
+            if curSum > 0:
+                minSum = min(minSum,curSum)
             for j in range(i,len(nums)):
-                if j-i+1 < l or j-i+1 > r:
-                    continue
-                s=sum(nums[i:j+1])
-                if s> 0 :
-                    minSum =min(minSum,s)
-       
+                curSum +=nums[j] - nums[j-i]
+                if curSum > 0:
+                    minSum = min(minSum,curSum)
+        if minSum == float("inf"): return -1
+        return minSum
+
+
+
         
-        return -1 if minSum==float("inf") else minSum
