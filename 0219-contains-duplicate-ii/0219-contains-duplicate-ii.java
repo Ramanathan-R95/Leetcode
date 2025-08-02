@@ -3,16 +3,22 @@ class Solution {
         
 
 
-        for(int i = 0 ; i < nums.length ; i++){
-            for( int j = i+1 ; j < nums.length ; j++){
-                if (j-i > k) break;
-                if(nums[i] == nums[j]) return true;
-
-
-
-            }
+        Set  <Integer> s = new HashSet<>();
+        int l=0;
+        int r;
+        
+        for(r=0;r < k+1; r++){
+            if(r < nums.length ){if( s.contains(nums[r])) return true;
+            s.add(nums[r]);}
+        }
+        for(r=k+1;r < nums.length;r++){
+            s.remove(nums[l]);
+            l++;
+            if(s.contains(nums[r])) return true;
+            s.add(nums[r]);
         }
         return false;
+
         
     }
 }
