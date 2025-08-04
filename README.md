@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ramanathan-R95/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Ramanathan-R95/Leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ramanathan-R95/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Ramanathan-R95/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Dynamic Programming
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ramanathan-R95/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
