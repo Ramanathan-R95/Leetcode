@@ -8,7 +8,7 @@ class Solution(object):
         :type t: str
         :rtype: str
         """
-        result=""
+        result=(-1,-1)
         resultLen = float("inf")
         count = 0
         counts=[0]*58
@@ -26,12 +26,12 @@ class Solution(object):
             while count == len(t):
                 if r-l+1 < resultLen :
                     resultLen = r-l+1
-                    result = s[l:r+1]
+                    result = (l,r+1)
                 counts[ord(s[l])-ord("A")]-=1
                 if counts[ord(s[l])-ord("A")] < 0:
                     count-=1
                 l+=1
-        return result
+        return s[result[0]:result[1]]
 
                 
 
