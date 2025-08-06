@@ -1,41 +1,38 @@
 class Solution {
-    public boolean checkStr(int[] count){
-        for(int i:count) {
-            if(i<0) return false;
-
-        }
-        return true;
-    }
     public String minWindow(String s, String t) {
-        String result = new String();
-        int resultNum=Integer.MAX_VALUE;
-       int l=0;
-       int r;
-       int[] count=new int[122];
-       for(int i = 0; i < t.length() ; i++){
-        count[t.charAt(i)-'A']--;
-       }
-       for(r=0;r<s.length();r++){
-        count[s.charAt(r)-'A']++;
-        if(checkStr(count)){
+        int resultLen = Integer.MAX_VALUE;
+        int result[]=new int[2];
+        int l = 0;
+        int r = 0;
+        int n1 = s.length();
+        int n2 = t.length();
+        int temp = 0;
+        int [] counts = new int[58];
+        for (int j = 0 ; j < n2 ; j++){
             
-            while(l<=r && checkStr(count)){
-                
-                if(checkStr(count) && r-l+1 < resultNum){
-                    resultNum=r-l+1;
-                    result=s.substring(l,r+1);}
-                count[s.charAt(l)-'A']--;
+            counts[t.charAt(j) - 'A']--;
+        }
+        for (r = 0 ; r < n1 ; r++){
+            if(counts[s.charAt(r) - 'A']  < 0) temp++;
+            counts[s.charAt(r) - 'A']++;
+            while(temp == n2){
+                if(resultLen > r-l+1){
+                    resultLen = r-l+1;
+                    result[0]=l;
+                    result[1]=r+1;
+                }
+                counts[s.charAt(l) - 'A']--;
+                if (counts[s.charAt(l) - 'A'] < 0) temp--;
                 l++;
-                
-            }        
+            }
+        }
+      
+        return s.substring(result[0],result[1])    ;
 
-            
+
+
 
         
-
-       }
-       }
-        return result;
         
     }
 }
