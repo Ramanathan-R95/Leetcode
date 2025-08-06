@@ -11,7 +11,7 @@ class Solution(object):
         result=""
         resultLen = float("inf")
         count = 0
-        counts=[0]*62
+        counts=[0]*58
         l=0
         r=0
         for i in range(len(t)):
