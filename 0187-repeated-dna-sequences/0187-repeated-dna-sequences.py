@@ -5,24 +5,24 @@ class Solution(object):
         :rtype: List[str]
         """
         n=len(s)
-        result = []
+        result = set()
         l=0
         sequence = s[:10]
 
-        d={}
-        d[sequence]=1
+        d=set()
+        d.add(sequence)
         
         for r in range(10,n):
             sequence=sequence[1:]+s[r]
-            if sequence in d and d[sequence] != -1:
+            if sequence in d:
+                result.add(sequence)
+            else:
+                d.add(sequence)
                 
-                d[sequence]+=1
-                if d[sequence] > 1:
-                    result.append(sequence)
-                    d[sequence] = -1
-            elif sequence not in d:
-                d[sequence]=1
-        return result
+                
+               
+            
+        return list(result)
             
 
 
