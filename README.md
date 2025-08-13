@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ramanathan-R95/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ramanathan-R95/Leetcode/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/Ramanathan-R95/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Ramanathan-R95/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ramanathan-R95/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ramanathan-R95/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Ramanathan-R95/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ramanathan-R95/Leetcode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Ramanathan-R95/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Ramanathan-R95/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ramanathan-R95/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0268-missing-number) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ramanathan-R95/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Ramanathan-R95/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ramanathan-R95/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -218,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ramanathan-R95/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ramanathan-R95/Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
