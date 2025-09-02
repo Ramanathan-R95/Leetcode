@@ -261,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Ramanathan-R95/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Ramanathan-R95/Leetcode/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ramanathan-R95/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0619-biggest-single-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
