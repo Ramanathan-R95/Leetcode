@@ -19,11 +19,8 @@ class Solution(object):
             sum += carry 
             if l1 : sum += l1.val
             if l2 : sum += l2.val
-            if sum > 9 :
-                carry = 1 
-                sum = sum % 10 
-            else :
-                carry = 0 
+            carry = sum // 10
+            sum = sum % 10
             temp.next = ListNode(sum) 
             temp = temp.next 
             if l1 :l1 = l1.next 
