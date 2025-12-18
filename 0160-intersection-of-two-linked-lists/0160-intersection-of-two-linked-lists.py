@@ -12,27 +12,20 @@ class Solution(object):
         """
         temp1 = headA
         temp2 = headB
-        flag = False
-        intersect =None
-        while temp1 :
-            temp1.val = temp1.val * (-1)
-            temp1 = temp1.next 
-        while temp2 :
-            if temp2.val < 1 :
-                flag = True
-                intersect = temp2
-                break
-            temp2 = temp2.next
-        
-        temp1 = headA
-        while temp1 :
-            temp1.val = temp1.val *(-1)
-            temp1 = temp1.next
-        if flag == False :
-            return None   
-        return intersect
 
+        while True:
+            if temp1 == temp2 :
+                return temp1
+            if temp1.next is None :
+                temp1 = headB
+            else :
+                temp1 = temp1.next
+            if temp2.next is None :
+                temp2 = headA
+            else :
+                temp2 = temp2.next 
+            if temp1.next is None and temp2.next is None : break
+        if temp1 == temp2 : return temp1
+        return None
 
-            
-        
         
