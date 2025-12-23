@@ -10,7 +10,7 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
         if head is None or head.next is None : return head
-        value = head.val
+        
         prev = head
         temp = head.next
 
