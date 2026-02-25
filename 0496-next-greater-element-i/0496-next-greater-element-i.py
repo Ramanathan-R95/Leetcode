@@ -5,19 +5,21 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        h = {}
-        res = [-1] * len(nums1)
-        for i in range(len(nums2)):
-            h[nums2[i]] = i 
-        for i in range(len(nums1)) :
-            st = h[nums1[i]]
-            
-            for j in range(st,len(nums2)) :
-                if nums2[j] > nums1[i] :
-                    res[i] = nums2[j]
-                    break
-        return res
+        map = { ele : i  for i , ele in enumerate(nums1)}
+        stack = []
+        result = [-1] * len(nums1)
+        for i in range(len(nums2)-1 , -1 , -1) :
 
 
-           
+            while stack != [] and nums2[i] > stack[-1] :
+                stack.pop()
+            if nums2[i] in map :
+                if stack != [] :
+                    result[map[nums2[i]]] = stack[-1] 
+            stack.append(nums2[i]) 
+        return result 
+
+
+
+
         
