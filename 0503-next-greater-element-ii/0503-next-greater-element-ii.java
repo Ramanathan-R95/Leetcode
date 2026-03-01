@@ -1,27 +1,21 @@
 class Solution {
-    public int nextGreat(int ind , int []nums){
-        int res = -1 ;
+    public int[] nextGreaterElements(int[] nums) {
+        int [] res = new int[nums.length] ;
+        Stack<Integer> stack = new Stack<>() ;
         int l = nums.length ;
-        int st =( ind + 1 )%l ;
-
-        while( st != ind){
-            if(nums[st] > nums[ind]){
-                res = nums[st] ;
-                break ;
-            }
-            st = (st + 1 ) % l ;
-
+        for (int i = l -1 ; i >=0 ; i--){
+            while(! stack.isEmpty() && nums[i] >=stack.peek()) stack.pop() ;
+            stack.push(nums[i]) ;
+        }
+        for (int i = l -1 ; i >= 0 ; i--){
+            int ele = -1 ;
+            while(! stack.isEmpty() && nums[i] >= stack.peek()) stack.pop() ;
+            if (! stack.isEmpty()) ele = stack.peek() ;
+            stack.push(nums[i]) ;
+            res[i] = ele ;
         }
         return res ;
-    }
-    public int[] nextGreaterElements(int[] nums) {
-        int l = nums.length ;
-        int[] result = new int[l] ;
-        for(int i = 0 ; i < l ; i++){
-            result[i] = nextGreat(i,nums) ;
-
-        }
-        return result ;
+        
         
     }
 }
