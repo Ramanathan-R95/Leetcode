@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ramanathan-R95/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ramanathan-R95/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1472-design-browser-history](https://github.com/Ramanathan-R95/Leetcode/tree/master/1472-design-browser-history) |
+| [2104-sum-of-subarray-ranges](https://github.com/Ramanathan-R95/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/Ramanathan-R95/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Ramanathan-R95/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ramanathan-R95/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ramanathan-R95/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/Ramanathan-R95/Leetcode/tree/master/1472-design-browser-history) |
+| [2104-sum-of-subarray-ranges](https://github.com/Ramanathan-R95/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ramanathan-R95/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ramanathan-R95/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Ramanathan-R95/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Queue
 |  |
 | ------- |
