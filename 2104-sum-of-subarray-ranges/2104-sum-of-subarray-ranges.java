@@ -2,7 +2,7 @@ class Solution {
     public void genPSE(int[] nums, int[] pse) {
         Stack<Integer> stack = new Stack<>() ;
         for(int i = 0 ; i < nums.length ; i++) {
-            while(! stack.isEmpty() && nums[i] < nums[stack.peek()])
+            while(! stack.isEmpty() && nums[i] <= nums[stack.peek()])
                 stack.pop() ;
             pse[i]  = stack.isEmpty() ? -1 : stack.peek() ;
             stack.push(i) ;
@@ -12,7 +12,7 @@ class Solution {
     public void genNSE(int[] nums , int[] nse) {
         Stack<Integer> stack = new Stack<>() ;
         for(int i = nums.length - 1 ; i >=0 ; i--) {
-            while(! stack.isEmpty() && nums[i]  <= nums[stack.peek()])
+            while(! stack.isEmpty() && nums[i]  < nums[stack.peek()])
                 stack.pop() ;
             nse[i] = stack.isEmpty() ? nums.length : stack.peek() ;
             stack.push(i)  ;
