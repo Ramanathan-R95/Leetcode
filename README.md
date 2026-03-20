@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Ramanathan-R95/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ramanathan-R95/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Ramanathan-R95/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Ramanathan-R95/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ramanathan-R95/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ramanathan-R95/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ramanathan-R95/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Ramanathan-R95/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ramanathan-R95/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/Ramanathan-R95/Leetcode/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ramanathan-R95/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Ramanathan-R95/Leetcode/tree/master/1472-design-browser-history) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Ramanathan-R95/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
