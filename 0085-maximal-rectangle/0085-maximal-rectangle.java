@@ -1,53 +1,52 @@
 class Solution {
-    public int calMaxArea(char[][] matrix,int row,int n){
-        int[] nums = new int[n];
-        int pse, ind ,result = Integer.MIN_VALUE;
-        for(int i =0;i<= row;i++){
-            if(i==0){
-                for(int j=0;j<n;j++){
-                    if(matrix[i][j]=='1')
-                        nums[j] = 1;
-                }
-            }
-            else{
-                for(int j=0;j<n;j++){
-                    if(matrix[i][j]== '1')
-                        nums[j]+= 1;
-                    else 
-                        nums[j] =0;
-                }
-            }
-        }
+    public int calArea(int[] nums){
         Stack<Integer> stack = new Stack<>();
-        for(int i=0;i<n;i++){
-            while(! stack.isEmpty() && nums[i] <= nums[stack.peek()]){
+        int result = Integer.MIN_VALUE;
+        int ind,pse ;
+        for(int i=0; i<nums.length ;i++){
+            while(!stack.isEmpty() && nums[i] <= nums[stack.peek()]){
                 ind = stack.pop();
-                pse = stack.isEmpty() ? -1 : stack.peek();
-                result = Math.max(result , (i - pse-1)*nums[ind]);
+                pse = stack.isEmpty()? -1: stack.peek();
+                result = Math.max(result,nums[ind]*(i - pse- 1));
+
+
+
 
             }
             stack.push(i);
         }
         while(!stack.isEmpty()){
             ind = stack.pop();
-            pse = stack.isEmpty()? -1 : stack.peek();
-            result = Math.max(result,nums[ind]*(n - pse-1));
+            pse = stack.isEmpty()? -1: stack.peek();
+            result = Math.max(result,nums[ind]*(nums.length - pse- 1));
+
+
 
         }
-        return result ;
+        return result;
 
     }
     public int maximalRectangle(char[][] matrix) {
-        int m = matrix.length ;
-        int n = matrix[0].length ;
+        int m = matrix.length;
+        int n = matrix[0].length;
+        int[][] ps = new int[m][n];
         int result = Integer.MIN_VALUE;
-        for(int i =0;i<m;i++){
-            result = Math.max(result,calMaxArea(matrix,i,n));
+        for (int i = 0 ; i < n ; i++)
+            ps[0][i] = matrix[0][i] == '1' ? 1: 0 ;
+        for (int i = 0 ; i < n ; i++){
+            for(int j = 1 ;j<m;j++){
+                if(matrix[j][i] == '0')
+                    ps[j][i] = 0;
+                else 
+                    ps[j][i] = ps[j-1][i] + 1 ;
+
+            }
 
         }
-        return result ;
-
-
+        for(int i=0;i<m;i++){
+            result = Math.max(result,calArea(ps[i]));
+        }
+        return result;
         
     }
 }
