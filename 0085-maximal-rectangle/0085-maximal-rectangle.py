@@ -1,42 +1,38 @@
-class Solution(object):
-    def calMaxArea(self,row, matrix) :
-        n = len(matrix)
-        m = len(matrix[0])
-
-        nums = []
-        for i in range(m):
-            nums.append(int(matrix[0][i]))
-        for i in range(1,row + 1) :
-            for j in range(m) :
-                if int(matrix[i][j]) != 0:
-                    nums[j] += 1
-                else :
-                    nums[j] = 0
-       
-
-
-
-
+class Solution:
+    def calArea(self,nums):
         stack = []
         result = float("-inf")
-        for i in range(m):
-            while stack and nums[i] <= nums[stack[-1]] :
+        for i in range(len(nums)) :
+            while stack and nums[i] <= nums[stack[-1]]:
                 ind = stack.pop()
                 pse = stack[-1] if stack else -1
-                result = max(result,(i - pse - 1)* nums[ind])
+                result = max(result,(i - pse - 1)*nums[ind])
             stack.append(i)
         while stack :
             ind = stack.pop()
             pse = stack[-1] if stack else -1
-            result = max(result, (m-pse-1)*nums[ind])
+            result = max(result, (len(nums)-pse-1)*nums[ind])
+
         return result
 
-    def maximalRectangle(self, matrix):
-        """
-        :type matrix: List[List[str]]
-        :rtype: int
-        """
-        res = 0
-        for i in range(len(matrix)):
-            res = max(res,self.calMaxArea(i,matrix))
-        return res
+    def maximalRectangle(self, matrix: List[List[str]]) -> int:
+        nums = []
+        n,m = len(matrix) , len(matrix[0])
+        result = float("-inf")
+        for i in range(n):
+            if i == 0 :
+                for j in matrix[0]:
+                    nums.append(int(j))
+            else :
+                for j in range(m) :
+                    if matrix[i][j]=='0':
+                        nums[j] = 0
+                    else :
+                        nums[j]+=1
+            result = max(result,self.calArea(nums))
+        return result
+            
+
+
+
+        
