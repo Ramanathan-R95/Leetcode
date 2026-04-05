@@ -4,30 +4,49 @@ class Solution {
         int n = num.length();
         String result = "";
         for(int i=0;i<n;i++){
-            
-            char ele = num.charAt(i);
-            while(!stack.isEmpty() && k> 0 && ((int)stack.peek()) > (int) ele ){
+            while( k>0 && !stack.isEmpty() && stack.peek() - '0' >  num.charAt(i) - '0'){
                 stack.pop();
-                k-=1;
+                k--;
             }
-            stack.push(ele);
-            
+            if(stack.isEmpty() && num.charAt(i) == '0' )    continue;
+            stack.push(num.charAt(i));
+
         }
-        while(!stack.isEmpty() && k> 0 ){
-                stack.pop();
-                k-=1;
-            }
+
+        while(k>0 && !stack.isEmpty()) {
+            stack.pop();
+            k--;
+        }
         while(!stack.isEmpty()){
-            result = result + stack.pop();
+            result += stack.pop();
         }
-        if(result.length() == 0)
-            return "0";
+        if(result.length() == 0) return "0";
+        return new StringBuilder(result).reverse().toString();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
+            
 
 
-        result =  new StringBuilder(result).reverse().toString();
-        int st = 0;
-        while(st < result.length() && result.charAt(st) == '0') st++;
-        return st < result.length() ? result.substring(st): "0";
+
+
+
+
+
+
     }
 }
