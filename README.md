@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ramanathan-R95/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Ramanathan-R95/Leetcode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Ramanathan-R95/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ramanathan-R95/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/Ramanathan-R95/Leetcode/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ramanathan-R95/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Ramanathan-R95/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ramanathan-R95/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Ramanathan-R95/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ramanathan-R95/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ramanathan-R95/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Queue
@@ -351,10 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ramanathan-R95/Leetcode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Ramanathan-R95/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Ramanathan-R95/Leetcode/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Ramanathan-R95/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Ramanathan-R95/Leetcode/tree/master/1472-design-browser-history) |
 ## Simulation
 |  |
