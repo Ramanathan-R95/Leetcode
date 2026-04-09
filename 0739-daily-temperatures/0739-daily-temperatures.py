@@ -8,11 +8,11 @@ class Solution(object):
         n = len(temperatures)
         result = [0] * n
         for i in range(n-1, -1, -1):
-            while stack and temperatures[i] >= stack[-1][1]:
+            while stack and temperatures[i] >= temperatures[stack[-1]]:
                 stack.pop()
             if stack:
-                result[i] = stack[-1][0] - i 
-            stack.append([i,temperatures[i]])
+                result[i] = stack[-1] - i 
+            stack.append(i)
 
         return result
 
