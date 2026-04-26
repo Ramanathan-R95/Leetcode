@@ -5,14 +5,12 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
-    def findDepth(self,root):
-        if not root:
-            return 0
-        return max(self.findDepth(root.left),self.findDepth(root.right)) + 1
     def maxDepth(self, root):
         """
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        return self.findDepth(root)
+        if not root :
+            return 0
+        return max(self.maxDepth(root.left),self.maxDepth(root.right)) + 1
         
