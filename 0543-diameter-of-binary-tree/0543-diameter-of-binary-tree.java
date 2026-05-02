@@ -14,35 +14,25 @@
  * }
  */
 class Solution {
-    int res=0;
-    public int diameterOfBinaryTree(TreeNode root) {
-        if(root==null || (root.left==null && root.right==null))
+    int result = 0;
+
+    public int getDiameter(TreeNode node){
+        if(node == null)
             return 0;
-        diameter(root);
-        return res+1;
+        int left = getDiameter(node.left);
+        int right = getDiameter(node.right);
+        result = Math.max(result , right + left  );
+        return Math.max(left,right) + 1;
+
+
+
+
+
+    }
+    public int diameterOfBinaryTree(TreeNode root) {
+        getDiameter(root);
+        return result;
         
         
-    
-}
-public int height(TreeNode node){
-    if(node == null)
-        return 0;
-    int l=height(node.left);
-    int r=height(node.right);
-    return 1+Math.max(l,r);
-}
-public void diameter(TreeNode root){
-    if(root==null)
-            return ;
-    
-    int l=height(root.left);
-    int r=height(root.right);
-
-    
-    res=Math.max(l+r-1,res);
-    diameter(root.left);
-    diameter(root.right);
-
-    
-}
+    }
 }
