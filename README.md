@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ramanathan-R95/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ramanathan-R95/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ramanathan-R95/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ramanathan-R95/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ramanathan-R95/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
