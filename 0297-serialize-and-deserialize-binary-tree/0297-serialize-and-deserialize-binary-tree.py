@@ -6,15 +6,6 @@
 #         self.right = None
 
 class Codec:
-    def __init__(self):
-        self.result = ""
-    def preorder(self,node):
-        if not node:
-            self.result = self.result + ",#"
-            return 
-        self.result = self.result + f",{node.val}"
-        self.preorder(node.left)
-        self.preorder(node.right)
 
     def serialize(self, root):
         """Encodes a tree to a single string.
@@ -22,39 +13,41 @@ class Codec:
         :type root: TreeNode
         :rtype: str
         """
-        self.preorder(root)
-        
-        return self.result
-
-        
-
+        result = ""
+        def encode(node):
+            nonlocal result
+            if not node:
+                result += "#,"
+                return
+            result += f"{node.val},"
+            encode(node.left)
+            encode(node.right)
+            return 
+        encode(root)
+        return result
     def deserialize(self, data):
         """Decodes your encoded data to tree.
         
         :type data: str
         :rtype: TreeNode
         """
-        tree = data.split(",")[1:]
-        print(tree)
+        tree = data.split(",")[:-1]
+        n = len(tree)
         ind = 0
-        def construct():
+        def decode():
             nonlocal ind
-            if ind >= len(tree):
-                return 
+            if ind == n:
+                return None
+
             if tree[ind] == "#":
                 ind+=1
                 return None
-            
             node = TreeNode(int(tree[ind]))
             ind+=1
-            node.left = construct()
-            node.right = construct()
+            node.left = decode()
+            node.right = decode()
             return node
-        return construct()
-            
-            
-
-
+        return decode()
 
         
 
