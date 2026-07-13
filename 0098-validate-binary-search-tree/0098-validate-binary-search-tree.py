@@ -6,23 +6,19 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        cur = float("-inf")
-        def inorder(root):
-            nonlocal cur
-            if not root:
+        prev = float("-inf")
+        def inorder(node):
+            nonlocal prev
+            if not node:
                 return True
             
-            left = inorder(root.left)
-
-            if root.val <= cur:
+            left = inorder(node.left)
+            if prev >= node.val:
                 return False
-            
-            cur = root.val
-
-            right = inorder(root.right)
-
+            prev = node.val
+            right = inorder(node.right)
             return left and right
         return inorder(root)
 
-             
+
         
