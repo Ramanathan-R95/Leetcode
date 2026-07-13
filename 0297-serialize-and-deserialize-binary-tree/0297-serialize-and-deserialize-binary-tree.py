@@ -14,41 +14,41 @@ class Codec:
         :rtype: str
         """
         result = ""
-        def encode(node):
+        def preOrder(node):
             nonlocal result
             if not node:
                 result += "#,"
                 return
             result += f"{node.val},"
-            encode(node.left)
-            encode(node.right)
+            preOrder(node.left)
+            preOrder(node.right)
             return 
-        encode(root)
+        preOrder(root)
         return result
+
+
     def deserialize(self, data):
         """Decodes your encoded data to tree.
         
         :type data: str
         :rtype: TreeNode
         """
-        tree = data.split(",")[:-1]
-        n = len(tree)
+        
+        values = data.split(",")[:-1]
         ind = 0
-        def decode():
+        l = len(values)
+        def create():
             nonlocal ind
-            if ind == n:
+            if  ind >= l or values[ind] == "#" :
                 return None
-
-            if tree[ind] == "#":
-                ind+=1
-                return None
-            node = TreeNode(int(tree[ind]))
-            ind+=1
-            node.left = decode()
-            node.right = decode()
+            node = TreeNode(values[ind])
+            ind += 1
+            node.left = create()
+            ind += 1
+            node.right = create()
             return node
-        return decode()
-
+        return create()
+            
         
 
 # Your Codec object will be instantiated and called as such:
