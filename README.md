@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Ramanathan-R95/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ramanathan-R95/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ramanathan-R95/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ramanathan-R95/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Ramanathan-R95/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ramanathan-R95/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ramanathan-R95/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ramanathan-R95/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ramanathan-R95/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Ramanathan-R95/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
