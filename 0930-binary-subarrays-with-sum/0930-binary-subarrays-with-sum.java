@@ -1,16 +1,24 @@
 class Solution {
-    public int numSubarraysWithSum(int[] nums, int goal) {
+    public int helper(int[] nums,int goal){
+        if(goal < 0) return 0;
         int result = 0;
-        for(int i=0; i < nums.length; i++){
-            int sum = 0;
-            for(int j = i; j < nums.length; j++){
-                sum += nums[j];
-                if(sum > goal) break;
-                if(sum == goal ) result++;
-
+        int l = 0;
+        int curSum = 0;
+        for(int r = 0; r < nums.length; r++){
+            curSum += nums[r];
+            while(curSum > goal){
+                curSum -= nums[l];
+                l++;
             }
+            result += (r - l + 1);
         }
         return result;
+
+
+
+    }
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        return helper(nums,goal) - helper(nums,goal - 1);
         
     }
 }
