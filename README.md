@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Ramanathan-R95/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ramanathan-R95/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ramanathan-R95/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ramanathan-R95/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ramanathan-R95/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ramanathan-R95/Leetcode/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ramanathan-R95/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ramanathan-R95/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ramanathan-R95/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ramanathan-R95/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
