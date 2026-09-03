@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Ramanathan-R95/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ramanathan-R95/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1763-longest-nice-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1763-longest-nice-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Ramanathan-R95/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0268-missing-number) |
+| [1763-longest-nice-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ramanathan-R95/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ramanathan-R95/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ramanathan-R95/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1763-longest-nice-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ramanathan-R95/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1763-longest-nice-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Ramanathan-R95/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
