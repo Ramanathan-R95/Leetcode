@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2299-strong-password-checker-ii](https://github.com/Ramanathan-R95/Leetcode/tree/master/2299-strong-password-checker-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ramanathan-R95/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
