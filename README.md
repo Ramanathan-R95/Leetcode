@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramanathan-R95/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Ramanathan-R95/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ramanathan-R95/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/Ramanathan-R95/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Ramanathan-R95/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ramanathan-R95/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ramanathan-R95/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/Ramanathan-R95/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1169-invalid-transactions](https://github.com/Ramanathan-R95/Leetcode/tree/master/1169-invalid-transactions) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -498,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ramanathan-R95/Leetcode/tree/master/0735-asteroid-collision) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Ramanathan-R95/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
