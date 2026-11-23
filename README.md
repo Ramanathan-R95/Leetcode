@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ramanathan-R95/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ramanathan-R95/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/Ramanathan-R95/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2784-check-if-array-is-good](https://github.com/Ramanathan-R95/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Ramanathan-R95/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramanathan-R95/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1169-invalid-transactions](https://github.com/Ramanathan-R95/Leetcode/tree/master/1169-invalid-transactions) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ramanathan-R95/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2784-check-if-array-is-good](https://github.com/Ramanathan-R95/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Tree
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ramanathan-R95/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2784-check-if-array-is-good](https://github.com/Ramanathan-R95/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
