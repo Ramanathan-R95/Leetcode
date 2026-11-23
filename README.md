@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Ramanathan-R95/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ramanathan-R95/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ramanathan-R95/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ramanathan-R95/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Ramanathan-R95/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1169-invalid-transactions](https://github.com/Ramanathan-R95/Leetcode/tree/master/1169-invalid-transactions) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ramanathan-R95/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ramanathan-R95/Leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Ramanathan-R95/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ramanathan-R95/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ramanathan-R95/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search Tree
 |  |
@@ -504,4 +506,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Ramanathan-R95/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ramanathan-R95/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ramanathan-R95/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
