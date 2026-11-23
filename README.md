@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ramanathan-R95/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1169-invalid-transactions](https://github.com/Ramanathan-R95/Leetcode/tree/master/1169-invalid-transactions) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ramanathan-R95/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ramanathan-R95/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/Ramanathan-R95/Leetcode/tree/master/1472-design-browser-history) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ramanathan-R95/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ramanathan-R95/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ramanathan-R95/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -513,8 +515,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ramanathan-R95/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ramanathan-R95/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Ramanathan-R95/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
